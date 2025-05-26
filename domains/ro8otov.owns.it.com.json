@@ -1,0 +1,16 @@
+{
+    "description": "Chirpstack UI",
+    "domain": "owns.it.com",
+    "subdomain": "ro8otov",
+    
+    "owner": {
+        "repo": "https://github.com/RO8OT0V/register",
+        "email": "your@email.com"
+    },
+    
+    "record": {
+        "A": ["93.113.180.197"],
+    },
+    
+    "proxied": false
+}
